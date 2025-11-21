@@ -1,0 +1,7 @@
+{
+  "name": "SkillSwap",
+  "description": "A community platform for exchanging skills and talents. Swap guitar lessons for baking, coding for languages, and more.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
